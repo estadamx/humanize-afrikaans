@@ -2,7 +2,7 @@
 
 module Humanize
   class Af
-    INFINITY = 'oneindigend'
+    INFINITY = 'oneindig'
     UNDEFINED = 'ongedefinieerd'
     NEGATIVE = 'negatief'
     POINT = 'komma'
